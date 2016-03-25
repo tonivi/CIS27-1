@@ -447,17 +447,6 @@ void reduceNhatH(FractionPtrNhat* arg) {
 }
 /*PROGRAM OUTPUT
 
-CIS 27 - C Programming
-Laney College
-Nhat Ho
-
-Assignment Information --
-  Assignment Number:  Lab 03,
-                      Coding Assignment -- Exercise #1
-  Written by:         Nhat Ho
-  Submitted Date:     2016/03/10
-
-
 ******************************
 * LINKED LIST MENU: Fraction *
 * 1. Displaying current list *
