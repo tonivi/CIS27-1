@@ -3,14 +3,6 @@
 
 int menu(void);
 
-/* For adding polynomials, I free'd pointers if required,
-and proceeded to call addPolyNhat which takes two lists of
-polynomials and returns the pointer to a resulting polynomial. 
-Inside the add() function, combine() function
-is called, which combines likes terms, and then
-a sort() function which sorts the exponents.*/
-
-
 struct FractionNhatH {
 	int num;
 	int denom;
