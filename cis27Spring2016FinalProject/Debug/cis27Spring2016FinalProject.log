@@ -1,0 +1,14 @@
+﻿Build started 4/18/2016 5:03:02 PM.
+     1>Project "J:\cis27\code\cis27Spring2016FinalProject\cis27Spring2016FinalProject\cis27Spring2016FinalProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt cis27Spring2016FinalProject.c
+         cis27Spring2016FinalProject.c
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(55): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:./lib freeglut.lib glew32.lib glew32s.lib glfw3.lib glfw3dll.lib OpenGL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.lib" /MACHINE:X86 Debug\cis27Spring2016FinalProject.obj
+         cis27Spring2016FinalProject.vcxproj -> J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.exe
+     1>Done Building Project "J:\cis27\code\cis27Spring2016FinalProject\cis27Spring2016FinalProject\cis27Spring2016FinalProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.06
