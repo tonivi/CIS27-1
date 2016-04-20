@@ -11,6 +11,7 @@
 - Possibly get rid of MMB to rotate the puzzle
 - Possibly get rid of the 2x buffering
 - Rename variables using camelCase convention
+- Better flow control, perhaps get rid of goto and continue
 
 */
 
