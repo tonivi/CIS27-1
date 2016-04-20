@@ -1,0 +1,52 @@
+﻿Build started 4/19/2016 9:41:39 PM.
+     1>Project "J:\cis27\code\cis27Spring2016FinalProject\cis27Spring2016FinalProject\cis27Spring2016FinalProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt cis27Spring2016FinalProject.c
+         cis27Spring2016FinalProject.c
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(90): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(164): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(193): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(272): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(306): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(385): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(428): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(690): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(691): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(693): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(694): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(862): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(866): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(878): warning C4244: '/=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(879): warning C4244: '/=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(885): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(886): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(917): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(925): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(926): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(966): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(979): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(980): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(995): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(996): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1075): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1079): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1080): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1204): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1205): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1206): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1207): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1360): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1317): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>j:\cis27\code\cis27spring2016finalproject\cis27spring2016finalproject\cis27spring2016finalproject.c(1321): warning C4305: 'initializing': truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:./lib freeglut.lib glew32.lib glew32s.lib glfw3.lib glfw3dll.lib OpenGL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.lib" /MACHINE:X86 Debug\cis27Spring2016FinalProject.obj
+         Debug\trackball.obj
+         cis27Spring2016FinalProject.vcxproj -> J:\cis27\code\cis27Spring2016FinalProject\Debug\cis27Spring2016FinalProject.exe
+     1>Done Building Project "J:\cis27\code\cis27Spring2016FinalProject\cis27Spring2016FinalProject\cis27Spring2016FinalProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.78
